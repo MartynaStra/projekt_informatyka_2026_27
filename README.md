@@ -2,3 +2,4 @@
 
 Autor: Martyna Strapczuk 
 Laboratorium informatyki 2026/27
+zmaiana
