@@ -38,3 +38,7 @@ sf::FloatRect Gracz::pobierzGranice() const
 {
     return sf::FloatRect(m_pozycja, m_rozmiar);
 }
+
+
+
+// test commit 2
